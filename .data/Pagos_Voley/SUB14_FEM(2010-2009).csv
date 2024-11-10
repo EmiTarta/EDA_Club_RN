@@ -1,0 +1,27 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,DEUDA
+SUB14 FEM,Apestegui Tapia,Delfina,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Ares,Valentina,No,No,,,x,x,x,x,x,x,BAJA,0
+SUB14 FEM,Burgos,Morena,No,No,,,,,,,,x,x,0
+SUB14 FEM,Cabezas,Zoe,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Cari ,Paula,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Cayulef,Umma,No,No,,x,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,De Francesco ,Agustina,No,No,x,x,x,x,BAJA,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,Dominguez,Daniela,No,No,,,x,x,x,x,x,BAJA,BAJA,0
+SUB14 FEM,Duarte Kloc ,Renata,Si,No,x,x,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,Figueroa,Ludmila,No,No,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Guglielmin ,Fernanda Agostina,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Infante,Lourdes,No,No,,,,x,x,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,Luis Cadena,Luciana Belen,No,No,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Millache,Romina,No,No,,,x,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,Montes,Morena,No,No,,,,,,x,x,x,x,0
+SUB14 FEM,Orosco ,Morena,No,No,x,x,x,x,x,x,12500,12500,BAJA,25000
+SUB14 FEM,Riva De Neira ,Uma Julieta,No,No,,,x,x,x,x,12500,x,BAJA,12500
+SUB14 FEM,Robles,Camila,Si,No,,,,x,BAJA,BAJA,BAJA,BAJA,BAJA,0
+SUB14 FEM,Rodriguez ,Megan,No,No,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Romero,Victoria,Si,No,,,x,x,x,x,x,x,BAJA,0
+SUB14 FEM,Sepulveda ,Martina,No,No,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Tartaglia,Guadalupe,No,No,,,,,x,x,x,x,x,0
+SUB14 FEM,Ulloa Orellana,Camila,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB14 FEM,Millanahuel,Tiara,Si,Si,,,,,,,,,x,0
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,37500

@@ -1,0 +1,25 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,DEUDA
+SUB-12,Allevato ,Ornella,No,No,x,x,x,x,x,12500,12500,12500,12500,50000
+SUB-12,Alvarez ,Angeles Malena,No,No,x,BAJA,,,,,,,,0
+SUB-12,Aun,Ciro,No,No,,,,,,,,x,x,0
+SUB-12,Baigorria,Melanie,No,No,No entreno,x,8000,BAJA,,,,,,8000
+SUB-12,Blasón,Francesca,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB-12,Conrad,Natasha Jazmin,No,No,x,x,x,x,x,x,x,x,x,0
+SUB-12,Ferroni Mainardi ,Fiorella,No,No,x,x,x,x,x,x,x,x,x,0
+SUB-12,Garrido,Kamila,Si,Si,,,x,x,x,x,x,x,12500,12500
+SUB-12,Gauto,Giuliana,No,No,x,x,x,x,x,x,x,BECA,,0
+SUB-12,Lavado,Julieta,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB-12,Pardo,Bautista,Si,Si,,,,,,,x,x,12500,12500
+SUB-12,Platero Gonzalez,Benjamín,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB-12,Rodriguez ,Agostina,No,No,No entreno,x,x,x,x,x,x,x,x,0
+SUB-12,Rodriguez Quilapi,Lujan,No,No,,x,x,x,x,x,12500,12500,12500,37500
+SUB-12,Rubí,Juliana,No,No,,,,,,,,,x,0
+SUB-12,Salvo,Oriana,Si,Si,x,x,x,x,x,12500,x,x,x,12500
+SUB-12,Silva,Nayla,No,No,x,x,x,x,x,x,6000,12500,12500,31000
+SUB-12,Sprenger,Kurt,No,No,,,,,,,,x,x,0
+SUB-12,Torres Orellana ,Mía Constanza,No,No,,x,x,x,x,x,x,x,x,0
+SUB-12,Valenzuela ,Brenda,No,No,x,x,BAJA,,,,,,,0
+SUB-12,Vidal Roncallo,Fermin,No,No,,,,,,,,x,x,0
+SUB-12,Vilugron,Blanca Renata,Si,Si,,,,,,,x,x,x,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,164000

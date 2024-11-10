@@ -1,0 +1,18 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,DEUDA
+SUB16 MASC,Bogado,Nahuel,Si,Si,,,,x,x,x,x,x,12500,12500
+SUB16 MASC,Chavez,Santiago,No,No,x,x,x,x,x,x,x,x,x,0
+SUB16 MASC,Flores,Benjamin,No,No,,,,,,,,12500,12500,25000
+SUB16 MASC,Fotti Ortiz ,Robertino,No,No,x,x,x,x,x,x,x,x,x,0
+SUB16 MASC,Gallego ,Gabriel,Si,Si,x,x,x,x,x,x,x,x,x,0
+SUB16 MASC,Garcia,Federico,Si,Si,No entreno,x,x,x,x,x,x,x,x,0
+SUB16 MASC,Guglielmin,Facundo,No,No,,,,,,,,x,12500,12500
+SUB16 MASC,Rosales,Gadiel,No,no,,,,,,,,12500,x,12500
+SUB16 MASC,San Martin,Micahias,Si,Si,,x,x,x,x,x,x,x,x,0
+SUB16 MASC,Tscherig ,German,No,No,,,,,,,x,12500,x,12500
+SUB16 MASC,Vidal,Benjamin,No,No,,,,,,,,x,x,0
+SUB16 MASC,West Barou,Baruc ,Si,Si,,,,,,,,x,12500,12500
+SUB16 MASC,Zarate,Franco,Si,Si,,,,,,,x,x,x,0
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,112500

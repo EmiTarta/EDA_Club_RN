@@ -1,0 +1,51 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,NOV,DIC,DEUDA
+SUB 19 FEM,Alvarez,Aroa,Si,Si,,,,,,,x,x,x,,,0
+SUB 19 FEM,Alvarez,Malena,No,No,,,,,,,,,,,,0
+SUB 19 FEM,Barzola,Camila,Si,Si,,,x,x,x,4500,x,BAJA,,,,4500
+SUB 19 FEM,Bejarano ,Candela,Si,Si,No entreno,x,x,x,x,x,x,x,x,,,0
+SUB 19 FEM,Borquez,Sofia,No,No,No entreno,,,,x,x,,,,,,0
+SUB 19 FEM,Candia,Julia,Si,Si,,,,,,,,x,x,,,12500
+SUB 19 FEM,Cerezuela,Brisa,No,No,No entreno,BAJA,,,,x,x,12500,12500,,,25000
+SUB 19 FEM,Contreras ,Camila,Si,Si,,,,x,x,x,x,x,x,,,0
+SUB 19 FEM,Criban,Abigail Daiana,No,No,No entreno,x,x,x,x,x,x,x,x,,,0
+SUB 19 FEM,Del Rio,Candela,Si,Si,No entreno,x,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,BAJA,,,25000
+SUB 19 FEM,Diez,Rosario,Si,No,No entreno,No entreno,x,x,x,x,x,BAJA,,,,0
+SUB 19 FEM,Fernandez ,Agustina,Si,Si,,,,,,,,,x,,,0
+SUB 19 FEM,Jofre,Nayra,No,No,No entreno,No entreno,x,BAJA,x,BAJA,x,x,x,,,0
+SUB 19 FEM,Leiva,Celina,No,No,,,,,,,x,x,12500,,,12500
+SUB 19 FEM,Levin,Lucia,No,No,,,,,,,,x,x,,,0
+SUB 19 FEM,Madariaga,Agustina,No,No,,BAJA,,,,,,,,,,0
+SUB 19 FEM,Medina,Martina,Si,Si,No entreno,x,x,x,x,x,x,x,x,,,0
+SUB 19 FEM,Monsalves ,Martina,No,No,,,x,x,x,BAJA,,,,,,0
+SUB 19 FEM,Moya,Julieta Edith,No,No,No entreno,No entreno,x,x,x,x,x,BAJA,,,,0
+SUB 19 FEM,Nahuelquir Casas,Selene Antonella,Si,Si,,,,,,,x,x,x,,,0
+SUB 19 FEM,Reguera,Martina,No,No,,,,,,,,x,x,,,0
+SUB 19 FEM,Rios,Ailin,No,,No entreno,x,8000,BAJA,,,,,,,,8000
+SUB 19 FEM,Rocha,Daiana,Si,Si,,,,,,,,x,x,,,0
+SUB 19 FEM,Serrano,Luna,Si,Si,,,,,,,x,12500,12500,,,25000
+SUB 19 FEM,Zella,Priscila Lujan,Si,Si,No entreno,No entreno,x,x,x,x,x,BAJA,,,,0
+,,,,,,,,,,,,,,TOTAL DEUDA,,112500
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,TOTAL DEUDA,225000

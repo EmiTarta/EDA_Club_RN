@@ -1,0 +1,20 @@
+CADETES,,,,,,,,,,,,,,,
+APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MARZO,ABRIL,MAYO,JUNIO,JULIO,AGOS,SEPT,OCT,NOV,DIC,DEUDA
+Anzisi,Rocco,Si,Si,x,x,x,x,x,x,x,x,x,,,13500
+Barressi,Franco,No,No,x,x,BAJA,,,,,,,,,0
+Bartolo ,Mateo Jose,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Beronic Waldhorn,Juan Bautista,Si,Si,,,x,x,x,x,x,x,x,,,0
+Cabrera,Bautista,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Cabrera,Gonzalo,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Emiliani,Eugenio,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Fernandez,Feliciano,Si,Si,No entreno,x,x,x,x,x,x,x,x,,,0
+Fuentes,Ian,Si,Si,x,x,x,x,x,x,x,x,x,BAJA,,0
+Giovagnoli,Nataniel,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Huemil,Fabricio,Si,No,x,x,x,BAJA,,,,,,,,0
+Maica,Elias,No,No,,,,,,,,13500,13500,,,27000
+Makaroff ,Gael,Si,Si,x,x,x,x,x,x,x,x,1800,,,0
+Perez,Ignacio,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+Pineda,Oriel,Si,Si,BECA,,,,,,,,,,,0
+Stahl Dimarco,Mateo,Si,Si,x,x,x,x,x,x,x,x,x,,,13500
+Zorat,Jano,No,No,x,7200,BAJA,,,,,,,,,
+,,,,,,,,,,,,,,,54000

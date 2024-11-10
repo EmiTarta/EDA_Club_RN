@@ -1,0 +1,28 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,DEUDA
+PRIMERA FEM,Appiolaza,Cintia,No,No,BAJA,x,x,,,,,,,0
+PRIMERA FEM,Astrada ,Irina,Si,Si,x,BECA,,,,,,,,0
+PRIMERA FEM,Bonnet,Brenda,Si,Si,,,,,,,x,x,x,0
+PRIMERA FEM,Borri ,Daniela,Si,Si,x,x,x,x,x,x,x,x,12500,12500
+PRIMERA FEM,Cabezas ,Abril,Si,Si,x,x,x,x,x,x,x,x,x,0
+PRIMERA FEM,Cancino,Carla,No,No,No entreno,x,x,9500,9500,BAJA,,,,19000
+PRIMERA FEM,Carrilaf,Marina,Si,Si,BECA,,,,,,,,,0
+PRIMERA FEM,Catricura,Carolina,Si,Si,,,,,,,x,x,x,0
+PRIMERA FEM,Chico,Agustina,No,No,BAJA,x,x,x,x,BAJA,x,x,12500,12500
+PRIMERA FEM,Correa,Shiomara,Si,Si,BAJA,x,x,x,LESION,LESION,x,x,x,12500
+PRIMERA FEM,Cuevas,Camila,No,No,BAJA,x,BAJA,x,x,x,BAJA,,,0
+PRIMERA FEM,Cuevas Tgmoszka,Katya,,,,,,,x,BAJA,,,,0
+PRIMERA FEM,Donosa ,Daira,No,No,x,x,BAJA,,,,,,,0
+PRIMERA FEM,Huemil,Michelle,Si,Si,,,x,x,x,x,BAJA,,,0
+PRIMERA FEM,Jalil Mucarsel ,Salma Haiat,Si,Si,x,x,BAJA,BAJA,x,x,BAJA,,,0
+PRIMERA FEM,Johnson ,Sofia,Si,Si,,,x,x,x,BAJA,,x,x,0
+PRIMERA FEM,Londero,Laila ,No,No,,,x,x,x,x,x,x,x,0
+PRIMERA FEM,Meliman,Tatiana,No,No,x,BAJA,,,,,,,,0
+PRIMERA FEM,Ñancucheo ,Maria Sol,Si,No,,,,,x,x,BAJA,,,0
+PRIMERA FEM,Paredes,Camila,No,No,,,,,,,x,x,x,0
+PRIMERA FEM,Pereyra ,Mayra,No,No,BECA,,,,,,,,,0
+PRIMERA FEM,Sandoval,Abigail,Si,No,BAJA,x,x,x,x,BAJA,,,,0
+PRIMERA FEM,Soto ,Lesly nahir,Si,Si,x,x,x,x,x,x,x,x,x,0
+PRIMERA FEM,Vallejos,Leila,No,No,x,x,x,BAJA,,,,,,0
+PRIMERA FEM,Yañez ,Mariana,No,No,,,8000,BAJA,,,,,,8000
+,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,64500

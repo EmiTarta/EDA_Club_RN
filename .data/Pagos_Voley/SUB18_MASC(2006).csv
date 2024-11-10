@@ -1,0 +1,49 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,NOV,DIC,DEUDA
+SUB 18 MASC,Avendano,Maycol,Si,Si,,,,x,x,x,x,x,x,,,0
+SUB 18 MASC,Blanc ,Joaquin,No,No,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Bustos,Yael,Si,Si,,,,,,,,,x,,,0
+SUB 18 MASC,Calfupan,Bruno,No,No,,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Chumbita,Justin,Si,Si,,,,,,,,,12500,,,12500
+SUB 18 MASC,Dalbene,Federico,No,No,,,,,,,x,12500,12500,,,25000
+SUB 18 MASC,Gonzalez ,Ezequiel,No,No,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Lavaccara,Jairo,No,No,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Morales ,Angel,Si,Si,x,x,x,x,x,x,x,x,12500,,,12500
+SUB 18 MASC,Moure ,Santino,No,No,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Moyano,Mateo,No,No,No entreno,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Nuñez,Federico,No,No,x,x,x,x,x,x,x,BAJA,x,,,0
+SUB 18 MASC,Oyarce,Bastian,Si,Si,,,,,,,,x,12500,,,12500
+SUB 18 MASC,Quintian,Lucas,No,No,,,,,,,,12500,x,,,25000
+SUB 18 MASC,Riffo Cuevas ,Nicolas Raul,Si,Si,x,x,x,BAJA,x,x,x,x,x,,,0
+SUB 18 MASC,Rivera,Bautista,Si,Si,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Sambuesa,Bruno,No,No,x,x,x,x,BAJA,x,x,x,x,,,0
+SUB 18 MASC,San Martin,Lemuel,,,,,,x,x,x,x,BAJA,,,,0
+SUB 18 MASC,Sisterna ,Javier Ezequiel,No,No,x,x,x,x,x,x,x,x,x,,,0
+SUB 18 MASC,Torres ,Leandro,No,No,x,x,x,x,x,x,x,x,x,,,0
+,,,,,,,,,,,,,,TOTAL DEUDA,,100000
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,TOTAL DEUDA,200000

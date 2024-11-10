@@ -1,0 +1,30 @@
+CATEGORIA,APELLIDO,NOMBRE,DATOS,SEGURO,FEB,MAR,ABR,MAY,JUN,JUL,AGO,SEPT,OCT,DEUDA
+PRIMERA MASC,Bonfanti ,Franco,No,NO,,,,,,,x,BAJA,BAJA,0
+PRIMERA MASC,Borquez,Juan Manuel,Si,No,,,,x,x,x,x,BAJA,,0
+PRIMERA MASC,Bravo,Agustin,,,,,,,,,,,,0
+PRIMERA MASC,Burgardt,Jeremias,No,No,x,x,x,BAJA,,,,,x,0
+PRIMERA MASC,Coria ,Cristian,No,No,x,BAJA,,,,,,,,0
+PRIMERA MASC,Correa,Lucas,No,No,,,,,,,x,x,x,0
+PRIMERA MASC,Delmonte,Nazareno,Si,Si,x,x,x,x,x,x,x,x,x,0
+PRIMERA MASC,Durazno ,Manuel,Si,Si,x,x,x,x,x,x,x,x,x,0
+PRIMERA MASC,Fernandez Vera,Roque,Si,Si,,,,,,,x,x,x,0
+PRIMERA MASC,Gargantini,Marco,No,No,x,x,x,x,x,x,x,x,x,0
+PRIMERA MASC,Gazzaniga,Santiago,No,No,,x,x,x,x,x,x,x,x,0
+PRIMERA MASC,Gonzalez,Franco David,No,No,,x,x,x,x,x,BAJA,,,0
+PRIMERA MASC,Gonzalez ,Joaquin,No,No,x,x,x,x,x,x,x,x,x,0
+PRIMERA MASC,Letelle ,Ariel Marcos ,No,No,x,BAJA,BAJA,x,x,9500,BAJA,,,9500
+PRIMERA MASC,Marin,Elian,No,No,,,,,x,x,x,x,12500,12500
+PRIMERA MASC,Pardo,Nazareno,Si,Si,No entreno,x,x,x,x,x,x,x,12500,12500
+PRIMERA MASC,Parra,Lautaro,Si,No,x,x,x,x,9500,BAJA,,,,9500
+PRIMERA MASC,Parra,Elias Gabriel,Si,Si,No entreno,x,x,BAJA,,,,,x,0
+PRIMERA MASC,Reuque,Enzo Gabriel,No,No,x,,,,,,,,,0
+PRIMERA MASC,Roque,Santiago,No,No,No entreno,x,x,No entreno,x,x,x,12500,12500,25000
+PRIMERA MASC,Samuel ,Enzo Facundo,Si,No,x,x,x,x,x,x,BAJA,,,0
+PRIMERA MASC,Serrano,Felipe,Si,Si,x,x,x,x,12500,x,x,x,12500,25000
+PRIMERA MASC,Silva,Gaston,No,No,No entreno,x,x,7500,7500,BAJA,,,,15000
+PRIMERA MASC,Teijeiro,Tahiel,No,No,x,x,x,x,x,LESION,x,12500,12500,25000
+PRIMERA MASC,Torres,Bruno,,,,,,x,x,12500,BAJA,,,12500
+PRIMERA MASC,Troncoso ,Tobias,Si,Si,x,x,x,x,x,BAJA,x,x,BAJA,0
+PRIMERA MASC,Valbuena Maza ,Ramiro Alejandro,No,No,,,,,,,,x,x,0
+PRIMERA MASC,Sosaya,Santiago,,,,,,,,,x,12500,12500,25000
+,,,,,,,,,,,,,,209000
