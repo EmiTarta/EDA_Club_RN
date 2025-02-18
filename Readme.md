@@ -2,6 +2,8 @@
 Autor: Maria Emilia Tartaglia
 Fecha: Noviembre 2024
 
+![Escudo_RN.jpg](img/Escudo_RN.jpg)
+
 ## Tabla de Contenidos
 - [Resumen Ejecutivo](#resumen-ejecutivo)
 - [Contexto y Desafío](#contexto-y-desafío)
